@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!--
+*******************************************************************************
+MainFrame style
+*******************************************************************************
+-->
+  <style id="MainFrame">
+    <defaultsProperty key="Synthetica.rootPane.titlePane.title.visible.MainFrame" type="boolean" value="false" />
+    <defaultsProperty key="Synthetica.rootPane.titlePane.layoutStyle.MainFrame" type="string" value="SECONDARYMENU" />
+    <defaultsProperty key="Synthetica.rootPane.titlePane.showMenuBarInTitlePane.MainFrame" type="boolean" value="true" />
+    <defaultsProperty key="Synthetica.rootPane.titlePane.clipMenuBarWidth.MainFrame" type="boolean" value="true" />
+    
+    <defaultsProperty key="Synthetica.rootPane.titlePane.title.alignment.MainFrame" type="integer" value="11" />
+    <defaultsProperty key="Synthetica.rootPane.titlePane.menuButton.alignment.MainFrame" type="integer" value="11" />
+    <defaultsProperty key="Synthetica.rootPane.titlePane.iconifyButton.alignment.MainFrame" type="integer" value="11" />
+    <defaultsProperty key="Synthetica.rootPane.titlePane.toggleButton.alignment.MainFrame" type="integer" value="11" />
+    <defaultsProperty key="Synthetica.rootPane.titlePane.closeButton.alignment.MainFrame" type="integer" value="11" />
+    
+    <defaultsProperty key="Synthetica.rootPane.titlePane.menuBar.insets.MainFrame" type="insets" value="2 2 0 0"/>
+    <defaultsProperty key="Synthetica.rootPane.titlePane.menuButton.insets.MainFrame" type="insets" value="0 0 0 0"/>
+    <defaultsProperty key="Synthetica.rootPane.titlePane.iconifyButton.insets.MainFrame" type="insets" value="2 0 0 0"/>
+    <defaultsProperty key="Synthetica.rootPane.titlePane.toggleButton.insets.MainFrame" type="insets" value="2 0 0 0"/>
+    <defaultsProperty key="Synthetica.rootPane.titlePane.closeButton.insets.MainFrame" type="insets" value="2 0 0 2"/>
+  </style>
